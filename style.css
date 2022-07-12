@@ -39,7 +39,7 @@ footer{
      text-decoration-line: none;
 }
 .footer-link-item:hover{
-     color: crimson;
+     color: white;
      font-weight: normal;
 }
 .icon-link{
@@ -48,7 +48,7 @@ footer{
      font-weight: bold;
 }
 .icon-link:hover{
-     color: crimson;
+     color: white;
      font-weight: normal;
 }
 .gotoupbtn{
